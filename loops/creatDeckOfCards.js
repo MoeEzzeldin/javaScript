@@ -13,4 +13,9 @@ for (let i = 0; i < suits.length; i++) {
   result.push(inner);
 }
 
+<<<<<<< HEAD
 console.log(result);
+=======
+console.log(result);
+
+>>>>>>> 9e0df2930f84b673ba19d17fffb977767f894a21
